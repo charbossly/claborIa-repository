@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+*.onnx
+*.pt
+*.bin
+data/
+wandb/
+.DS_Store
+node_modules/
+dist/
+.vscode/
