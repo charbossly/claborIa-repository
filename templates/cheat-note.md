@@ -6,6 +6,7 @@ tags: []
 sources: []
 difficulty: "intro"   # intro | inter | avancé
 lang: "fr"            # fr | en
+visibility: "public"  # public | private
 ---
 
 ## Problème

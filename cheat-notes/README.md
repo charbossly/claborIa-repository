@@ -11,3 +11,9 @@ problème → notion → exemple minimal reproductible → pièges → sources.
 ## Nommage
 
 `AAAA-MM-JJ-titre-en-kebab-case.md` (ex. `2026-07-15-onnx-runtime.md`).
+
+## Public / privé
+
+Le champ `visibility` du frontmatter (`public` ou `private`) indique si la fiche
+est destinée à être publiée ou à rester un brouillon local. Une fiche `private`
+peut être gardée hors dépôt (voir `.gitignore`) tant qu'elle n'est pas prête.

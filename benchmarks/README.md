@@ -12,3 +12,8 @@ Chaque benchmark DOIT fournir :
 - un `make reproduce` qui rejoue tout en une commande,
 - un leaderboard (tableau de résultats),
 - les liens repo / paper.
+
+## Public / privé
+
+Le champ `visibility` du frontmatter (`public` ou `private`) indique si le
+benchmark est prêt à être partagé ou encore en cours de validation.

@@ -7,6 +7,7 @@ repo: ""
 paper: ""
 reproduce: "make reproduce"
 lang: "fr"
+visibility: "public"  # public | private
 ---
 
 ## Question de mesure
